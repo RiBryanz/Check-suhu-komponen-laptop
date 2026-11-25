@@ -1,0 +1,7 @@
+# Jangan memasukkan binary pihak ketiga ke repositori.
+*.dll
+*.zip
+*.exe
+
+# File hasil pengujian/log.
+*.log
